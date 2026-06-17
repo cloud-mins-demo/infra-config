@@ -19,23 +19,23 @@ It is intentionally lightweight and focuses on representing a realistic multi-st
 ## Tech Stack
 
 - Frontend:
-  - React (18.2.0)
+  - React 18.2.0
 - Backend:
-  - Node.js (20.x)
-  - Python (3.11)
-  - FastAPI (0.111.0)
+  - Node.js 20.x
+  - Python 3.11
+  - FastAPI 0.111.0
 - Database:
-  - PostgreSQL (15)
+  - PostgreSQL 15
 - DevOps:
-  - Docker (26.x)
-  - Kubernetes (1.30)
-  - Terraform (1.8.x)
-  - AWS (Provider 5.x)
-  - GitHub Actions (v4 runners)
+  - Docker 26.x
+  - Kubernetes 1.30
+  - Terraform 1.8.x
+  - AWS Provider 5.x
+  - GitHub Actions v4 runners
 - Testing:
-  - Pytest (8.x)
-  - Jest (29.x)
-  - Postman (v11)
+  - Pytest 8.x
+  - Jest 29.x
+  - Postman v11
 
 ## Project Structure
 

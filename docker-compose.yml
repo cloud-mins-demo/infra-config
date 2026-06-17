@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: postgres
+
+  redis:
+    image: redis
+
+  kafka:
+    image: confluentinc/cp-kafka
